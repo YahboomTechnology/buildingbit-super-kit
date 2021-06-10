@@ -19,7 +19,6 @@ We combine building blocks with electronic devices to bring your building blocks
 * 16 kinds of models with up to 80+ gameplays, such as spider walking, helicopter propeller rotation, car wriggling, cannonball shooting, etc.
 * Users can also expand through more Lego bricks and build more interesting shapes.
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/-/zh/dp/B089YQNDZQ?ref_=ast_sto_dp)
 
 [By on Yahboom website](https://category.yahboom.net/products/buildingbit-super-kit)
 
